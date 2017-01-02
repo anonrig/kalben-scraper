@@ -1,0 +1,1 @@
+exports.Scraper = require('./lib/scraper');
